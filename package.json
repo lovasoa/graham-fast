@@ -1,0 +1,30 @@
+{
+  "name": "graham-fast",
+  "version": "1.0.0",
+  "description": "Fast implementation of the graham scan algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lovasoa/graham-fast"
+  },
+  "keywords": [
+    "graham",
+    "scan",
+    "algorithm",
+    "convex",
+    "hull",
+    "envelope",
+    "points",
+    "stretch",
+    "enclose"
+  ],
+  "author": "Ophir LOJKINE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/lovasoa/510ba3f1ece9a623b703"
+  },
+  "homepage": "https://gist.github.com/lovasoa/510ba3f1ece9a623b703"
+}
